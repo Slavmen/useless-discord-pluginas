@@ -1,0 +1,2 @@
+# useless-discord-pluginas
+Yes
